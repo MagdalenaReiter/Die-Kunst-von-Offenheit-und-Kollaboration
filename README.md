@@ -42,11 +42,17 @@ Es ist kein Laptop notwendig, aber irgendwas zum Notizen machen ist sicher sinnv
 
 ## OFFENHEIT UND KOLLABORATION BEI DESIGN
 
+Einleitung: Was ist Offenheit?
 Magdalena Reiter
+
+(Folien sind von der Lizenz oben ausgenommen)
 
 ## LIZENZRECHT
 
+Offene Lizenzen für Künstler*innen und Kreative (Creative Commons)
 Magdalena Reiter
+
+(Folien sind von der Lizenz oben ausgenommen)
 
 ## Metadaten und Dokumentation
 
